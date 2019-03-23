@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+# tutorial_finder
+This helps to find the best tutorials for the available skills
